@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T03:46:42.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="wTJPneqVvq1yQdgmjOpN" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T05:23:18.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="basqZslaJto_UUdjJnYw" version="15.5.6" type="github">
   <diagram id="V9he01ceWmoxbT-5eS5x" name="Page-1">
     <mxGraphModel dx="580" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="nk5KbnTbqSaS5txyQPrg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-10" target="nk5KbnTbqSaS5txyQPrg-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="91" />
+              <mxPoint x="330" y="101" />
               <mxPoint x="330" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-10" value="로그인" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="270" y="70" width="25" height="42" as="geometry" />
+          <mxGeometry x="270" y="80" width="25" height="42" as="geometry" />
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-11" target="nk5KbnTbqSaS5txyQPrg-10">
           <mxGeometry relative="1" as="geometry">
@@ -37,19 +37,10 @@
           </mxCell>
         </object>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-16" value="회원 정보 수정&lt;br&gt;회원 탈퇴" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="360" y="20" width="25" height="42" as="geometry" />
+          <mxGeometry x="360" y="10" width="25" height="42" as="geometry" />
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-18" value="회원가입" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="25" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="nk5KbnTbqSaS5txyQPrg-20" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="917.5" y="150" width="25" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="nk5KbnTbqSaS5txyQPrg-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="837.5" y="290" width="25" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="nk5KbnTbqSaS5txyQPrg-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="717.5" y="400" width="25" height="42" as="geometry" />
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-32" target="nk5KbnTbqSaS5txyQPrg-36">
           <mxGeometry relative="1" as="geometry" />
@@ -88,7 +79,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="150" y="1311" />
-              <mxPoint x="150" y="1481" />
+              <mxPoint x="150" y="1491" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -100,56 +91,278 @@
         <mxCell id="nk5KbnTbqSaS5txyQPrg-36" value="매인 화면" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
           <mxGeometry x="280" y="1100" width="25" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-37" target="nk5KbnTbqSaS5txyQPrg-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-37" value="검색" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
           <mxGeometry x="190" y="1200" width="25" height="42" as="geometry" />
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-38" value="날씨 상세 정보" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="280" y="650" width="25" height="42" as="geometry" />
+          <mxGeometry x="270" y="708" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-39" target="nk5KbnTbqSaS5txyQPrg-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="853" />
+              <mxPoint x="150" y="729" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-39" target="nk5KbnTbqSaS5txyQPrg-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="853" />
+              <mxPoint x="150" y="811" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-39" target="nk5KbnTbqSaS5txyQPrg-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="853" />
+              <mxPoint x="150" y="891" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-39" target="nk5KbnTbqSaS5txyQPrg-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="853" />
+              <mxPoint x="150" y="981" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-39" value="매인 화면" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="80" y="790" width="25" height="42" as="geometry" />
+          <mxGeometry x="80" y="832" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-40" target="nk5KbnTbqSaS5txyQPrg-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-40" value="헤더 날씨 한줄" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
           <mxGeometry x="190" y="708" width="25" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="nk5KbnTbqSaS5txyQPrg-41" value="자유 게시판" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1290" width="25" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-42" value="내 정보" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
           <mxGeometry x="190" y="1382" width="25" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="nk5KbnTbqSaS5txyQPrg-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-43" target="nk5KbnTbqSaS5txyQPrg-41">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-43" target="nk5KbnTbqSaS5txyQPrg-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1311" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-43" value="톡" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
           <mxGeometry x="190" y="1290" width="25" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="nk5KbnTbqSaS5txyQPrg-44" value="날씨 정보" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-44" target="nk5KbnTbqSaS5txyQPrg-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-44" value="핫 플" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
           <mxGeometry x="190" y="1470" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-51" target="nk5KbnTbqSaS5txyQPrg-87">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-51" value="장소 검색" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
           <mxGeometry x="190" y="790" width="25" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-52" target="nk5KbnTbqSaS5txyQPrg-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-52" value="관광 명소" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
           <mxGeometry x="190" y="870" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-53" target="nk5KbnTbqSaS5txyQPrg-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-53" value="맛집 소개" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
           <mxGeometry x="190" y="960" width="25" height="42" as="geometry" />
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-56" value="게시글 작성" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1220" width="25" height="42" as="geometry" />
+          <mxGeometry x="370" y="1230" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-57" target="nk5KbnTbqSaS5txyQPrg-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="1311" />
+              <mxPoint x="340" y="1251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-57" target="nk5KbnTbqSaS5txyQPrg-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="1311" />
+              <mxPoint x="340" y="1353" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-57" value="게시글 리스트" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1290" width="25" height="42" as="geometry" />
+          <mxGeometry x="280" y="1290" width="25" height="42" as="geometry" />
         </mxCell>
         <mxCell id="nk5KbnTbqSaS5txyQPrg-58" value="덧글 작성" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1320" width="25" height="42" as="geometry" />
+          <mxGeometry x="370" y="1332" width="25" height="42" as="geometry" />
         </mxCell>
-        <object label="3줄이" id="nk5KbnTbqSaS5txyQPrg-59">
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-59" target="nk5KbnTbqSaS5txyQPrg-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="293" />
+              <mxPoint x="140" y="146" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-59" target="nk5KbnTbqSaS5txyQPrg-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="293" />
+              <mxPoint x="140" y="251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-59" target="nk5KbnTbqSaS5txyQPrg-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="293" />
+              <mxPoint x="140" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-59" target="nk5KbnTbqSaS5txyQPrg-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="293" />
+              <mxPoint x="140" y="441" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-59" target="nk5KbnTbqSaS5txyQPrg-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="293" />
+              <mxPoint x="140" y="531" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="햄버거" id="nk5KbnTbqSaS5txyQPrg-59">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-            <mxGeometry x="80" y="167" width="25" height="42" as="geometry" />
+            <mxGeometry x="80" y="272" width="25" height="42" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-61" target="nk5KbnTbqSaS5txyQPrg-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="My 일정" id="nk5KbnTbqSaS5txyQPrg-61">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+            <mxGeometry x="180" y="230" width="25" height="42" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-62" target="nk5KbnTbqSaS5txyQPrg-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="My 코멘트" id="nk5KbnTbqSaS5txyQPrg-62">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+            <mxGeometry x="180" y="332" width="25" height="42" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-64" target="nk5KbnTbqSaS5txyQPrg-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="My 톡" id="nk5KbnTbqSaS5txyQPrg-64">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+            <mxGeometry x="180" y="420" width="25" height="42" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="일정 세부 페이지" id="nk5KbnTbqSaS5txyQPrg-65">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+            <mxGeometry x="270" y="230" width="25" height="42" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-67" target="nk5KbnTbqSaS5txyQPrg-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="자신이 쓴 덧글&lt;br&gt;모아보기" id="nk5KbnTbqSaS5txyQPrg-67">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+            <mxGeometry x="270" y="332" width="25" height="42" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-69" target="nk5KbnTbqSaS5txyQPrg-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="자신이 쓴 게시글&lt;br&gt;모아보기" id="nk5KbnTbqSaS5txyQPrg-69">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+            <mxGeometry x="270" y="420" width="25" height="42" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="덧글을 단 게시글" id="nk5KbnTbqSaS5txyQPrg-75">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+            <mxGeometry x="360" y="332" width="25" height="42" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="해당 게시글" id="nk5KbnTbqSaS5txyQPrg-77">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+            <mxGeometry x="360" y="420" width="25" height="42" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="공지사항" id="nk5KbnTbqSaS5txyQPrg-84">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+            <mxGeometry x="180" y="510" width="25" height="42" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-87" value="구글 지도" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+          <mxGeometry x="270" y="790" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-89" target="nk5KbnTbqSaS5txyQPrg-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="891" />
+              <mxPoint x="350" y="933" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-89" value="관광 명소 &lt;br&gt;상세 페이지" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+          <mxGeometry x="270" y="870" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-95" value="기능" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-91" target="nk5KbnTbqSaS5txyQPrg-93">
+          <mxGeometry x="0.6622" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="981" />
+              <mxPoint x="350" y="933" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-91" value="맛집 &lt;br&gt;상세 페이지" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+          <mxGeometry x="270" y="960" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-93" value="리뷰(별점 + 내용)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+          <mxGeometry x="395" y="912" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-98" value="명소/맛집&lt;br&gt;DB전체 검색" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1200" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-102" target="nk5KbnTbqSaS5txyQPrg-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="1491" />
+              <mxPoint x="340" y="1551" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk5KbnTbqSaS5txyQPrg-102" target="nk5KbnTbqSaS5txyQPrg-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="1491" />
+              <mxPoint x="340" y="1445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-102" value="지역별&lt;br&gt;관광지/맛집" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1470" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-105" value="관광지 &lt;br&gt;상세보기" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1530" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nk5KbnTbqSaS5txyQPrg-107" value="맛집&lt;br&gt;상세보기" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1424" width="25" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
